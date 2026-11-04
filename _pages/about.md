@@ -2,13 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: Led by Chiao-Yi Wu (吳喬伊), Ph.D., Adjunct Associate Professor, National Cheng Kung University
+subtitle: Understanding how people learn, and how AI is reshaping learning and education
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: lab_logo.png
   image_circular: false
   more_info: >
+    <p>The Learning Brain Lab</p>
     <p>Center for General Education</p>
     <p>National Cheng Kung University</p>
     <p>Tainan, Taiwan</p>
@@ -24,13 +25,14 @@ announcements:
 latest_posts:
   enabled: false
 ---
-   <style>
-     h2, h2 a { text-transform: capitalize; }
-   </style>
 
-Welcome to the **Learning Brain Lab**. We study how the brain learns, and how cognitive neuroscience can inform education. Founded in 2020 at the Centre for Research in Child Development, National Institute of Education (NIE), Nanyang Technological University (NTU), Singapore, the lab takes a science-of-learning approach to understanding the neural, cognitive, and environmental factors behind successful and difficult learning.
+<style>
+  h2, h2 a { text-transform: capitalize; }
+</style>
 
-I am Chiao-Yi Wu, an Adjunct Associate Professor at the Center for General Education, National Cheng Kung University (NCKU), Taiwan. I am a psychologist and cognitive neuroscientist, and my work focuses on language, reading, mathematics, and executive function in monolingual and bilingual learners. Before joining NCKU, I was an Education Research Scientist at NIE, NTU, a Research Scientist at the Centre for Research and Development in Learning (CRADLE@NTU), and a postdoctoral researcher at the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, Germany.
+Welcome to the **Learning Brain Lab**. We study how the brain learns, and how cognitive neuroscience can inform education. Founded in 2020 at the Centre for Research in Child Development, National Institute of Education, Nanyang Technological University, Singapore, the lab takes a science-of-learning approach to understanding the neural, cognitive, and environmental factors behind successful and difficult learning.
+
+The lab is led by [Dr. Chiao-Yi Wu]({{ '/people/' | relative_url }}), Adjunct Associate Professor at the Center for General Education, National Cheng Kung University, Taiwan.
 
 #### What we study
 
@@ -41,4 +43,6 @@ I am Chiao-Yi Wu, an Adjunct Associate Professor at the Center for General Educa
 
 #### How we study it
 
-We combine behavioural assessment with neuroimaging, including magnetic resonance imaging (MRI) and functional near-infrared spectroscopy (fNIRS), and synthesize existing evidence through neuroimaging meta-analysis and systematic review.
+We combine behavioural assessment with neuroimaging, including magnetic resonance imaging (MRI) and functional near-infrared spectroscopy (fNIRS), and synthesise existing evidence through neuroimaging meta-analysis and systematic review.
+
+Learn more about our [projects]({{ '/projects/' | relative_url }}) and [publications]({{ '/publications/' | relative_url }}).
