@@ -2,8 +2,8 @@
 layout: page
 title: PEBBLE
 description: Promoting effective biliteracy and balanced bilingual development in early childhood
-img: assets/img/projects/pebble.jpg
-importance: 2
+img: assets/img/projects/pebble.png
+importance: 3
 category: research
 ---
 

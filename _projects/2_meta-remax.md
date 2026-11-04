@@ -2,8 +2,8 @@
 layout: page
 title: Meta-ReMaX
 description: Meta-analyses of the neural networks for reading, math, and executive function in development
-img: assets/img/projects/meta-remax.jpg
-importance: 1
+img: assets/img/projects/meta-remax.png
+importance: 2
 category: research
 ---
 

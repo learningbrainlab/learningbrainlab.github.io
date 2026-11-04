@@ -2,8 +2,8 @@
 layout: page
 title: Brain-NORM
 description: Understanding brain networks of reading and math to inform diagnostics and interventions
-img: assets/img/projects/brain-norm.jpg
-importance: 5
+img: assets/img/projects/brain-norm.png
+importance: 1
 category: research
 ---
 

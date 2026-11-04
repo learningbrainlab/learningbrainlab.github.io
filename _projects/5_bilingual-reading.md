@@ -2,8 +2,8 @@
 layout: page
 title: Bilingual Reading Networks
 description: How language experience and writing systems shape the reading brain in bilinguals
-img: assets/img/projects/bilingual-reading.jpg
-importance: 3
+img: assets/img/projects/bilingual-reading.png
+importance: 5
 category: research
 ---
 

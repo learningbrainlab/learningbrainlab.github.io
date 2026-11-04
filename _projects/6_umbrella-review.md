@@ -2,7 +2,7 @@
 layout: page
 title: Science of Learning Umbrella Review
 description: What works for literacy, numeracy, and well-being? Synthesising the evidence across meta-analyses
-img: assets/img/projects/umbrella-review.jpg
+# img: assets/img/projects/umbrella-review.jpg
 importance: 6
 category: research
 ---
