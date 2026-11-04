@@ -9,7 +9,7 @@ nav_order: 2
 
 <style>
   .person { display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: flex-start; margin-bottom: 1.5rem; }
-  .person img { width: 200px; max-width: 100%; border-radius: 6px; }
+  .person img { width: 200px; height: 200px; object-fit: cover; border-radius: 50%; }
   .person-info { flex: 1; min-width: 240px; }
   .person-links { margin-top: 0.75rem; }
   .person-links a { display: inline-block; margin: 0 1rem 0.5rem 0; text-decoration: none; white-space: nowrap; }

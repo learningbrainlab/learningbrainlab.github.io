@@ -7,7 +7,7 @@ subtitle: Understanding how people learn, and how AI is reshaping learning and e
 profile:
   align: right
   image: lab_logo.png
-  image_circular: false
+  image_circular: true
   more_info: >
     <p>The Learning Brain Lab</p>
     <p>Center for General Education</p>

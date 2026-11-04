@@ -4,7 +4,7 @@ title: MRI for Children
 description: A guide for parents, and a child-friendly protocol for preparing young children for brain scans
 img: assets/img/projects/mri-for-children.png
 importance: 4
-category: resources
+category: Resources
 ---
 
 **Magnetic Resonance Imaging for Children: A Guide for Parents**

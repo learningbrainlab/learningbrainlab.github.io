@@ -4,15 +4,15 @@ title: Bilingual Reading Networks
 description: How language experience and writing systems shape the reading brain in bilinguals
 img: assets/img/projects/bilingual-reading.png
 importance: 5
-category: research
+category: Research
 ---
 
 **Investigating Bilingual Reading Networks**
 
 **Period:** 2016 – 2023  
 **Funding:**
-- *Effective Biliteracy: The Impact of Script Sets on Bilingual Reading Networks for Typical and Atypical Readers*, CRADLE–Johns Hopkins University Collaborative Grant (2016 – 2021; led the neuroimaging studies)
-- *How Language Mixes Contribute to Effective Bilingualism and Biliteracy in Singapore*, National Research Foundation, Science of Learning Initiative (2017 – 2023; Co-PI)
+- *Effective Biliteracy: The Impact of Script Sets on Bilingual Reading Networks for Typical and Atypical Readers*, CRADLE–Johns Hopkins University Collaborative Grant, Nanyang Technological University, Singapore (2016 – 2021; led the neuroimaging studies)
+- *How Language Mixes Contribute to Effective Bilingualism and Biliteracy in Singapore*, National Research Foundation, Science of Learning Initiative, Singapore (2017 – 2023; Co-PI)
 
 #### Overview
 

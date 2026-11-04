@@ -4,7 +4,7 @@ title: Science of Learning Umbrella Review
 description: What works for literacy, numeracy, and well-being? Synthesising the evidence across meta-analyses
 # img: assets/img/projects/umbrella-review.jpg
 importance: 6
-category: research
+category: Research
 ---
 
 **Science of Learning-Based Interventions to Improve Literacy, Numeracy, and Well-being in Students: An Umbrella Review**

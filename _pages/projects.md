@@ -5,7 +5,7 @@ permalink: /projects/
 description: Funded research and resources from the Learning Brain Lab.
 nav: true
 nav_order: 3
-display_categories: [research, resources]
+display_categories: [Research, Resources]
 horizontal: false
 ---
 
