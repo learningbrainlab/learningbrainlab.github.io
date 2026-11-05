@@ -16,7 +16,7 @@ category: Research
 
 #### Overview
 
-These projects examine the neurocognitive mechanisms behind typical and impaired reading in bilinguals. Combining behavioural assessment with neuroimaging, the studies follow bilingual readers from early childhood to adulthood and investigate how factors such as the orthographic depth of a language and auditory perception skills shape the brain's reading network.
+These projects examine the neurocognitive mechanisms behind typical and impaired reading in bilinguals. Combining behavioural assessment with neuroimaging, the studies investigate how factors such as the orthographic depth of a language and auditory perception skills shape the brain's reading network in young children and adults.
 
 #### Why it matters
 
