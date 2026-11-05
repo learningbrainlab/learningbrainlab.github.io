@@ -1,6 +1,6 @@
 ---
 layout: course
-title: "MSL 907 Translating Educational Neuroscience"
+title: "Translating Educational Neuroscience"
 description: A graduate course on how science of learning research is translated into educational practice and policy, including its ethics, feasibility, successes, and limits.
 instructors: Dr. Adam John Privitera & Dr. Chiao-Yi Wu
 year: 2025

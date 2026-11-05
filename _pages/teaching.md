@@ -5,7 +5,7 @@ title: Teaching
 description: Course offered by Dr. Chiao-Yi Wu.
 nav: true
 nav_order: 5
-calendar: false
+calendar: true
 ---
 
 This page displays a collection of courses with schedules, materials, and resources. 
