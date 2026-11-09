@@ -27,6 +27,7 @@ latest_posts:
 <style>
   h2, h2 a { text-transform: capitalize; }
   .contact-note { font-size: 1rem; }
+  .more-info { font-size: 0.85rem; }
 </style>
 
 Welcome to the **Learning Brain Lab**. We study how the brain learns, and how cognitive neuroscience can inform education. Founded in 2020 at the Centre for Research in Child Development, National Institute of Education, Nanyang Technological University, Singapore, the lab takes a science-of-learning approach to understanding the neural, cognitive, and environmental factors behind successful and difficult learning.
