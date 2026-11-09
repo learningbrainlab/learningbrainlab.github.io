@@ -1,8 +1,8 @@
 ---
 layout: course
 title: "語言、閱讀與大腦：跨教育與神經科學的探索 | Language, Reading, and the Brain: An Interdisciplinary Exploration of Education and Neuroscience"
-description: How brain research on language, reading, bilingual learning, and reading difficulties can inform evidence-based teaching. <br>以語言與閱讀為例，探討腦科學研究如何轉譯為以實證為基礎的教學與閱讀介入。
-course_id: ncku-language-reading-brain-2026
+description: How brain research on language, reading, bilingual learning, and reading difficulties can inform evidence-based teaching.
+# course_id: ncku-language-reading-brain-2026
 instructor: Dr. Chiao-Yi Wu (吳喬伊)
 year: 2026
 term: Summer

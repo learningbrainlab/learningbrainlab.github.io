@@ -2,11 +2,11 @@
 layout: course
 title: "Translating Educational Neuroscience"
 description: A graduate course on how science of learning research is translated into educational practice and policy, including its ethics, feasibility, successes, and limits.
-instructor: Dr. Adam John Privitera & Dr. Chiao-Yi Wu
+instructor: Dr. Adam John Privitera and Dr. Chiao-Yi Wu
 year: 2025
 term: August Semester
 location: National Institute of Education, Nanyang Technological University, Singapore
-time: Mondays, 6:00–9:00 pm
+time: Mondays, 6:00-9:00 pm
 ---
 
 #### At a glance
