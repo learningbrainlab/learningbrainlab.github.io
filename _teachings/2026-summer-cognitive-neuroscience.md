@@ -2,7 +2,6 @@
 layout: course
 title: "從理論到分析談認知神經科學 | From Theory to Analysis in Cognitive Neuroscience"
 description: A beginner-friendly, hands-on introduction to cognitive neuroscience methods, from research questions and experimental design to fMRI data analysis.
-# course_id: ncku-cognitive-neuroscience-2026
 instructor: Dr. Chiao-Yi Wu (吳喬伊)
 year: 2026
 term: Summer
