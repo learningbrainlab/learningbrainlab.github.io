@@ -1,7 +1,7 @@
 ---
 layout: course
 title: "從理論到分析談認知神經科學 | From Theory to Analysis in Cognitive Neuroscience"
-description: A beginner-friendly, hands-on introduction to cognitive neuroscience methods, from research questions and experimental design to fMRI data analysis. 以 fMRI 為例，帶領初學者從研究問題、實驗設計到數據分析，認識認知神經科學的研究方法。
+description: A beginner-friendly, hands-on introduction to cognitive neuroscience methods, from research questions and experimental design to fMRI data analysis. <br>以 fMRI 為例，帶領初學者從研究問題、實驗設計到數據分析，認識認知神經科學的研究方法。
 course_id: ncku-cognitive-neuroscience-2026
 instructor: Dr. Chiao-Yi Wu (吳喬伊)
 year: 2026
