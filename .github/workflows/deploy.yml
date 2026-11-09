@@ -58,7 +58,8 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
+  deployments: write
 
 jobs:
   deploy:
@@ -101,8 +102,18 @@ jobs:
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
-      - name: Deploy 🚀
-        if: github.event_name != 'pull_request'
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Deploy to Cloudflare Pages 🚀
+        id: cloudflare
+        if: >-
+         success() &&
+         (github.event_name != 'pull_request' ||
+         github.event.pull_request.head.repo.full_name == github.repository)
+        uses: cloudflare/wrangler-action@v4
         with:
-          folder: _site
+         apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+         accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+         command: >-
+           pages deploy _site
+            --project-name=learningbrainlab-github-io
+            --branch=${{ github.event_name == 'pull_request' && format('pr-{0}', github.event.pull_request.number) || github.ref_name }}
+         gitHubToken: ${{ secrets.GITHUB_TOKEN }}
