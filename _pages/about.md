@@ -9,10 +9,8 @@ profile:
   image: lab_logo.png
   image_circular: true
   more_info: >
-    <p>The Learning Brain Lab</p>
-    <p>Center for General Education</p>
-    <p>National Cheng Kung University</p>
-    <p>Tainan, Taiwan</p>
+    <p style="display:flex; gap:0.4rem;"><i class="fa-solid fa-location-dot" style="margin-top:0.2rem;"></i>
+    <span>Center for General Education<br>National Cheng Kung University<br>Tainan, Taiwan</span></p>
 
 selected_papers: true
 social: true
