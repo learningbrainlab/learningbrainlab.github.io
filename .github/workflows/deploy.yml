@@ -112,8 +112,5 @@ jobs:
         with:
          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-         command: >-
-           pages deploy _site
-            --project-name=learningbrainlab-github-io
-            --branch=${{ github.event_name == 'pull_request' && format('pr-{0}', github.event.pull_request.number) || github.ref_name }}
+         command: pages deploy _site --project-name="learningbrainlab-github-io" --branch="${{ github.event_name == 'pull_request' && format('pr-{0}', github.event.pull_request.number) || github.ref_name }}"
          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
